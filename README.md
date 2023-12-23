@@ -1,21 +1,23 @@
 
 
+  
+
+  <p align="center">
+  <img width="350" height="350" src="https://static.wikia.nocookie.net/titanfall/images/2/28/ApexPredators_Logo.png/revision/latest?cb=20170705144046">
+</p>
   <h1>Artisan - Apex Legends Automation 🎮🤖</h1>
-
-  <img src="https://static.wikia.nocookie.net/titanfall/images/2/28/ApexPredators_Logo.png/revision/latest?cb=20170705144046" alt="Artisan Logo">
-
-  <p>Artisan is your go-to Apex Legends automation program crafted in Python, offering robust and customizable settings for an enhanced gaming experience.</p>
+  <p>Artisan is an Apex Legends automation program crafted in Python, offering robust and customizable settings.</p>
 
 
   <h2>Features 🚀</h2>
   <ul>
-    <li><strong>Fully Featured GUI Window with Terminal Output</strong> 🖥️ - Enjoy a seamless interface that combines the power of a graphical user interface with detailed terminal feedback.</li>
-    <li><strong>Server Switcher</strong> 🌐 - Swiftly switch servers to ensure the best gaming performance and experience.</li>
-    <li><strong>Legend Picker</strong> 🎭 - Select your favorite legend effortlessly with Artisan's intuitive Legend Picker.</li>
-    <li><strong>EXP Leveler (Level Up Faster)</strong> 📈 - Level up at an accelerated pace and stay ahead in the game.</li>
-    <li><strong>MMR Lowerer (Bot Lobbies)</strong> 🤖 - Dive into bot lobbies to refine your skills or experiment without the pressure of competitive play.</li>
-    <li><strong>Gun Leveler</strong> 🔫 - Level up your favorite weapons with ease using Artisan's Gun Leveler.</li>
-    <li><strong>Cooldown Timer (Infinite and Set Time)</strong> ⏲️ - Manage cooldowns effectively with options for both infinite and customizable timers.</li>
+    <li><strong>Fully Featured GUI Window with Terminal Output</strong> 🖥️</li>
+    <li><strong>Server Switcher</strong> 🌐</li>
+    <li><strong>Legend Picker</strong> 🎭</li>
+    <li><strong>EXP Leveler (Level Up Faster)</strong> 📈</li>
+    <li><strong>MMR Lowerer (Bot Lobbies)</strong> 🤖</li>
+    <li><strong>Gun Leveler</strong> 🔫</li>
+    <li><strong>Cooldown Timer (Infinite and Set Time)</strong> ⏲️</li>
   </ul>
 
   <h2>Getting Started 🚀</h2>
@@ -36,6 +38,17 @@
 
   <h2>License 📝</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+  <hr>
+
+  <h2>Known Issues 🚧</h2>
+  <ul>
+    <li><strong>Settings not fully implemented.</strong></li>
+    <li><strong>MMR Lowering script not fully optimized.</strong></li>
+    <li><strong>Redundant Images.</strong></li>
+    <li><strong>Player image hardcoded.</strong></li>
+    <li><strong>Game path not implemented.</strong></li>
+  </ul>
 
   <hr>
 
