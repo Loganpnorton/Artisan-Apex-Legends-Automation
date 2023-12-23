@@ -21,7 +21,13 @@
   <li>Click the green "code" button above, and then click "download zip" from the dropdown.</li>
   <li>Unzip the downloaded file.</li>
   <li>Run Artisan.exe.</li>
+  <li>For first-time startup, you must input your Apex Legends folder location. The format is very important. Example folder location:</li>
 </ol>
+
+<pre><code>C:\Program Files (x86)\Steam\steamapps\common\Apex Legends</code></pre>
+
+<hr>
+
 
 <h2 id="faq">FAQ ❓</h2>
 
