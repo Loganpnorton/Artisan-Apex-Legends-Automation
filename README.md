@@ -3,7 +3,7 @@
 </p>
 <h1>Artisan - Apex Legends Automation 🎮🤖</h1>
 <p>Artisan is an Apex Legends automation program crafted in Python, offering robust and customizable settings.</p>
-<p>Take a look at the <a href="#faq">FAQ</a> for questions, or the <a href="#getting-started">Getting Started</a> to get up and running quickly.</p>
+<p>Take a look at the <a href="#faq">FAQ</a> for questions, or the <a href="#getting-started">Getting Started</a> to get up and running.</p>
 
 <h2>Features 🚀</h2>
 <ul>
@@ -16,14 +16,14 @@
   <li><strong>Cooldown Timer (Infinite and Set Time)</strong> ⏲️</li>
 </ul>
 
-<h2>Getting Started 🚀</h2>
+<h2 id="getting-started">Getting Started 🚀</h2>
 <ol>
   <li>Click the green "code" button above, and then click "download zip" from the dropdown.</li>
   <li>Unzip the downloaded file.</li>
   <li>Run Artisan.exe.</li>
 </ol>
 
-<h2>FAQ ❓</h2>
+<h2 id="faq">FAQ ❓</h2>
 
 Q: Will this get me banned?<br>
 A: Not as far as I know. I can't find many instances of bans for AFK'ing, just use discretion. There is a random timer implemented in between actions to prevent sending the same input at the same time interval.
