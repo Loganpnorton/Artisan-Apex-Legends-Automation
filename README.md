@@ -39,7 +39,7 @@
 
   <hr>
 
-  <p><strong>Crafted with ❤️ by the Apex Craftsmen</strong> 🛠️🎨</p>
+  <p><strong>Crafted with ❤️ by Logan</strong> 🛠️🎨</p>
 
 </body>
 </html>
