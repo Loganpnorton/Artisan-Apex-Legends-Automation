@@ -1,18 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Artisan - Apex Legends Automation</title>
-</head>
-<body>
+
 
   <h1>Artisan - Apex Legends Automation 🎮🤖</h1>
 
-  <img src="https://files.cults3d.com/uploaders/22650510/illustration-file/c5fec93a-c038-434e-b29f-72c0510cf742/Apex_Predator.png" alt="Artisan Logo">
+  <img src="https://static.wikia.nocookie.net/titanfall/images/2/28/ApexPredators_Logo.png/revision/latest?cb=20170705144046" alt="Artisan Logo">
 
   <p>Artisan is your go-to Apex Legends automation program crafted in Python, offering robust and customizable settings for an enhanced gaming experience.</p>
+
 
   <h2>Features 🚀</h2>
   <ul>
